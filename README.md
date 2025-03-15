@@ -1,6 +1,6 @@
 # Taskify
 
-A responsive and interactive Todo application built with React and Tailwind CSS.
+A responsive and interactive Todo application built with React+Vite and Tailwind CSS.
 
 Features:
 - Add, edit, update, and delete tasks
@@ -14,10 +14,7 @@ Technologies:
 Getting Started:
 1. Clone the repository: git clone https://github.com/Muhammadc100/Taskify.git
 2. Install dependencies: npm install
-3. Start the app: npm start
+3. Start the app: npm run dev
 
 Contributions:
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
-
-License:
-This project is licensed under the MIT License.
